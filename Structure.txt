@@ -1,0 +1,16 @@
+-header
+-body:
+	+left column: tabs
+	+right column: 
+		+row_1: header
+		+row_2:
+			+column_1: device filter + list devices
+			+column_2: 
+				row_1: create button + search bar
+				row_2: table include 4 column:
+					filter status (working / broken)
+					device name
+					type device
+					timecreate
+					more details
+				row_3: quantity text + pagination 
